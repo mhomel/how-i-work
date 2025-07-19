@@ -7,7 +7,7 @@ It focuses on:
 - Taking initiative in uncertain scenarios  
 - Supporting others in team-based challenges
 
-It reflects my behavior and decisions under simulated work-like pressure — not self-assessed impressions.
+It reflects my behavior and decisions under simulated work-like pressure - not self-assessed impressions.
 
 📄 [Read the full report](./Magdalena-Homel-Raport.pdf)
 
